@@ -1,3 +1,26 @@
+# React Ecommerce App
+
+## About
+
+This **Ecommerce App** is built using **React JS** and **Redux** to provide state management.
+It utilizes **Fetch API** to retrieve data from a dummy JSON server to simulate a full-fledged ecommerce platform.
+The app allows users to browse through products, add them to the cart, and manage their cart items seamlessly.
+
+## Features
+
+- **Product Listing**: Fetch and display products dynamically from a dummy JSON API.
+- **Product Details**: View detailed information about each product.
+- **Add to Cart**: Add products to the cart and manage cart items using Redux.
+- **Cart Management**: Update, remove, and view the total price of products in the cart.
+- **State Management**: Implemented using Redux for predictable state management across the application.
+
+## Technologies Used
+
+- **React JS**: Front-end framework for building user interfaces.
+- **Redux**: State management library to handle global state.
+- **Fetch API**: To retrieve product data from a dummy JSON server.
+- **CSS**: For styling the application and ensuring a responsive design.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
